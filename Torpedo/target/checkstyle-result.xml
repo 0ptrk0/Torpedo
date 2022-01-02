@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.0.1">
+<file name="C:\javaprogtech\lessons\Torpedo\src\main\java\hu\nye\progtech\torpedo\Battleship.java">
+</file>
+<file name="C:\javaprogtech\lessons\Torpedo\src\main\java\hu\nye\progtech\torpedo\Grid.java">
+</file>
+<file name="C:\javaprogtech\lessons\Torpedo\src\main\java\hu\nye\progtech\torpedo\Location.java">
+</file>
+<file name="C:\javaprogtech\lessons\Torpedo\src\main\java\hu\nye\progtech\torpedo\Randomizer.java">
+</file>
+<file name="C:\javaprogtech\lessons\Torpedo\src\main\java\hu\nye\progtech\torpedo\ShipPlacement.java">
+</file>
+<file name="C:\javaprogtech\lessons\Torpedo\src\main\java\hu\nye\progtech\torpedo\Ships.java">
+</file>
+</checkstyle>
